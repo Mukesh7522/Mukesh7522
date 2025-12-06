@@ -5,12 +5,12 @@
 ---
 
 ### 👨‍💻 Currently working on
-- 🤖 Building intelligent data automation pipelines that process 100K+ records monthly
-- 📊 Creating self-service analytics platforms that save ₹12L+ annually
-- ⚡ Eliminating 30+ hours/week through Python automation
+- 🤖 Engineering production-grade data pipelines that process 100K+ records monthly with 99.5% accuracy
+- 📊 Building enterprise self-service analytics platforms that eliminate manual reporting bottlenecks
+- ⚡ Developing intelligent automation systems that reduce operational overhead by 75%
 
-### 🗣️ Languages
-🇺🇸 English | 🇮🇳 Tamil | 💻 Python, SQL, JavaScript
+### 💻 Tech Stack
+Python • SQL • JavaScript • Power BI • Flask • React • PostgreSQL • Data Engineering
 
 ---
 
@@ -36,10 +36,10 @@
 ### Backend & Data 
 <div align="center">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="50" style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
 </div>
 
