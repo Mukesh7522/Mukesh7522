@@ -2,7 +2,7 @@
   
 # Hi, I'm Mukesh Sridharan 👋
 
-### Data Analyst | Helping teams work smarter by building tools that handle the repetitive tasks
+### Data Analyst who loves automating workflows and building tools that make data work easier
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Automation+Specialist;Building+Smart+Pipelines;It's+running+everything" alt="Typing SVG" />
 </div>
