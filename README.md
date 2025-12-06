@@ -1,4 +1,9 @@
 <div align="center">
+  
+# Hi, I'm Mukesh Sridharan 👋
+
+### Transforming complex data workflows into intelligent, self-running systems that drive business decisions
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Automation+Specialist;Building+Smart+Pipelines;It's+running+everything" alt="Typing SVG" />
 </div>
 
@@ -39,8 +44,8 @@ Python • SQL • JavaScript • Power BI • Flask • React • PostgreSQL �
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="50" style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="50" style="filter: invert(1);" />
 </div>
 
 </td>
