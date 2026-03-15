@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mukesh+%F0%9F%91%8B;Data+Engineer;PostgreSQL+%7C+Airflow+%7C+Docker;automate+it+once%2C+trust+it+forever" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mukesh;Data+Engineer;PostgreSQL+%7C+Airflow+%7C+Docker;automate+it+once%2C+trust+it+forever" alt="Typing SVG" />
 
 <br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Status](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square)
+![](https://img.shields.io/badge/PostgreSQL-EEEDFE?style=flat-square&logo=postgresql&logoColor=3C3489)
+![](https://img.shields.io/badge/Apache_Airflow-EEEDFE?style=flat-square&logo=apache-airflow&logoColor=3C3489)
+![](https://img.shields.io/badge/Docker-EEEDFE?style=flat-square&logo=docker&logoColor=3C3489)
+![](https://img.shields.io/badge/FastAPI-E1F5EE?style=flat-square&logo=fastapi&logoColor=085041)
+![](https://img.shields.io/badge/React-E1F5EE?style=flat-square&logo=react&logoColor=085041)
+![](https://img.shields.io/badge/Linux-E1F5EE?style=flat-square&logo=linux&logoColor=085041)
+![](https://img.shields.io/badge/Open_to_Work-E1F5EE?style=flat-square&logoColor=085041)
 
 </div>
 
 ---
 
-### `{ about }`
+### `// about`
 ```python
 mukesh = {
     "role"       : "Data Engineer",
     "location"   : "Tirupur, Tamil Nadu",
-    "focus"      : "ETL pipelines · data warehousing · analytics platforms",
+    "focus"      : "ETL · warehousing · analytics platforms",
     "stack"      : "PostgreSQL · Airflow · Docker · FastAPI · React",
     "learning"   : "dbt",
     "philosophy" : "automate it once, trust it forever"
@@ -30,74 +30,97 @@ mukesh = {
 
 ---
 
-### `{ how data moves }`
-```
- ┌─────────┐    ┌───────────┐    ┌─────────────┐    ┌──────────┐    ┌─────────────┐
- │  Ingest │ →  │ Raw Layer │ →  │  Transform  │ →  │  Serve   │ →  │ Orchestrate │
- │─────────│    │───────────│    │─────────────│    │──────────│    │─────────────│
- │ Python  │    │ PostgreSQL│    │  SQL · dbt  │    │ FastAPI  │    │   Airflow   │
- │  APIs   │    │  Schemas  │    │ Mat. Views  │    │  React   │    │   Docker    │
- └─────────┘    └───────────┘    └─────────────┘    └──────────┘    └─────────────┘
-```
+### `// how data moves`
+
+| `01 Ingest` | `02 Raw layer` | `03 Transform` | `04 Serve` | `05 Orchestrate` |
+|:-----------:|:--------------:|:--------------:|:----------:|:----------------:|
+| Python · APIs | PostgreSQL | SQL · dbt | FastAPI · React | Airflow · Docker |
 
 ---
 
-### `{ skills }`
+### `// skills`
 
-**⚙️ Pipeline & Orchestration**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-555?style=flat-square)
-![Dropbox API](https://img.shields.io/badge/Dropbox%20API-0061FF?style=flat-square&logo=dropbox&logoColor=white)
+**`PIPELINE & ORCHESTRATION`**
 
-**🧠 Languages & Transformation**
+![Airflow](https://img.shields.io/badge/Apache_Airflow-EEEDFE?style=flat-square&logo=apache-airflow&logoColor=3C3489)
+![Docker](https://img.shields.io/badge/Docker-EEEDFE?style=flat-square&logo=docker&logoColor=3C3489)
+![FastAPI](https://img.shields.io/badge/FastAPI-EEEDFE?style=flat-square&logo=fastapi&logoColor=3C3489)
+![REST](https://img.shields.io/badge/REST_APIs-EEEDFE?style=flat-square&logoColor=3C3489)
+![Dropbox](https://img.shields.io/badge/Dropbox_API-EEEDFE?style=flat-square&logo=dropbox&logoColor=3C3489)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-**🗄️ Databases & Modeling**
+**`LANGUAGES & TRANSFORM`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Star Schema](https://img.shields.io/badge/Star%20Schema-555?style=flat-square)
-![Materialized Views](https://img.shields.io/badge/Materialized%20Views-555?style=flat-square)
-![Row Level Security](https://img.shields.io/badge/Row--Level%20Security-555?style=flat-square)
+![Python](https://img.shields.io/badge/Python-E1F5EE?style=flat-square&logo=python&logoColor=085041)
+![SQL](https://img.shields.io/badge/SQL-E1F5EE?style=flat-square&logo=postgresql&logoColor=085041)
+![Pandas](https://img.shields.io/badge/Pandas-E1F5EE?style=flat-square&logo=pandas&logoColor=085041)
+![dbt](https://img.shields.io/badge/dbt_↗-E1F5EE?style=flat-square&logo=dbt&logoColor=085041)
 
-**🚀 DevOps & Infrastructure**
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack%20Monitoring-4A154B?style=flat-square&logo=slack&logoColor=white)
+**`DATABASES & MODELING`**
 
-**📊 Frontend & Visualization**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E6F1FB?style=flat-square&logo=postgresql&logoColor=0C447C)
+![MySQL](https://img.shields.io/badge/MySQL-E6F1FB?style=flat-square&logo=mysql&logoColor=0C447C)
+![MatViews](https://img.shields.io/badge/Materialized_Views-E6F1FB?style=flat-square&logoColor=0C447C)
+![Schema](https://img.shields.io/badge/Star_Schema-E6F1FB?style=flat-square&logoColor=0C447C)
+![RLS](https://img.shields.io/badge/Row--Level_Security-E6F1FB?style=flat-square&logoColor=0C447C)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+</td>
+<td valign="top">
 
-**🔗 ERP & Integrations**
+**`DEVOPS & INFRA`**
 
-![Odoo](https://img.shields.io/badge/Odoo%20ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
-![ChannelKonnect](https://img.shields.io/badge/ChannelKonnect-555?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FAEEDA?style=flat-square&logo=linux&logoColor=633806)
+![Git](https://img.shields.io/badge/Git-FAEEDA?style=flat-square&logo=git&logoColor=633806)
+![GHA](https://img.shields.io/badge/GitHub_Actions-FAEEDA?style=flat-square&logo=github-actions&logoColor=633806)
+![RDP](https://img.shields.io/badge/RDP_Server-FAEEDA?style=flat-square&logoColor=633806)
+![Slack](https://img.shields.io/badge/Slack_Alerts-FAEEDA?style=flat-square&logo=slack&logoColor=633806)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**`FRONTEND & VISUALIZATION`**
+
+![React](https://img.shields.io/badge/React-FBEAF0?style=flat-square&logo=react&logoColor=72243E)
+![JS](https://img.shields.io/badge/JavaScript-FBEAF0?style=flat-square&logo=javascript&logoColor=72243E)
+![HTML](https://img.shields.io/badge/HTML_CSS-FBEAF0?style=flat-square&logo=html5&logoColor=72243E)
+![PowerBI](https://img.shields.io/badge/Power_BI-FBEAF0?style=flat-square&logo=powerbi&logoColor=72243E)
+![Tableau](https://img.shields.io/badge/Tableau-FBEAF0?style=flat-square&logo=tableau&logoColor=72243E)
+
+</td>
+<td valign="top">
+
+**`ERP & INTEGRATIONS`**
+
+![Odoo](https://img.shields.io/badge/Odoo_ERP-F1EFE8?style=flat-square&logo=odoo&logoColor=444441)
+![CK](https://img.shields.io/badge/ChannelKonnect-F1EFE8?style=flat-square&logoColor=444441)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `{ connect }`
+### `// connect`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh7522)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mukesh7522@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mukesh7522.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukesh7522)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&logo=linkedin&logoColor=0C447C)](https://linkedin.com/in/mukesh7522)
+[![Gmail](https://img.shields.io/badge/Gmail-FAECE7?style=for-the-badge&logo=gmail&logoColor=712B13)](mailto:Mukesh7522@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EEEDFE?style=for-the-badge&logo=firefox&logoColor=3C3489)](https://mukesh7522.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-F1EFE8?style=for-the-badge&logo=github&logoColor=444441)](https://github.com/Mukesh7522)
 
 <br/>
 
@@ -105,6 +128,6 @@ mukesh = {
 
 <br/><br/>
 
-<sub>// open to data engineering opportunities //</sub>
+`// open to data engineering opportunities //`
 
 </div>
