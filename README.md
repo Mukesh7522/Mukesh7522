@@ -1,92 +1,95 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Production+Pipelines;30M%2B+Records+%7C+B2B+%2B+D2C;Airflow+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
-</div>
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Data & Pipelines
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+### 🖥️ Backend & Frontend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🚀 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### 📊 Visualization & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
-### 👨‍💻 Currently working on
-- 🏗️ Production PostgreSQL data warehouse consolidating **30M+ records** across B2B (Odoo ERP) and D2C (15+ marketplaces) using a raw → clean → analytics layer architecture
-- ⚙️ Orchestrating ETL pipelines with **Apache Airflow** and containerizing services with **Docker** on self-hosted infrastructure
-- 📊 Full-stack internal analytics platform (**FastAPI + React**) with 5 dashboards — B2B, D2C, Inventory, and Product Catalog
-- 🔐 Enterprise **Row-Level Security** in PostgreSQL for multi-distributor data isolation
+## 🚀 Featured Projects
+
+### 🏗️ Distro Forge — Distributor Analytics Platform
+> Multi-tenant self-service analytics portal for distributor performance tracking
+
+- **Stack:** PostgreSQL · Python · FastAPI · React · Row-Level Security
+- **Impact:** Eliminated ₹12L/year in legacy BI licensing costs
+- **Scale:** 40+ distributors · Primary vs Secondary sales comparison
+- **Highlight:** Enterprise-grade RLS — each distributor sees only their own data
 
 ---
 
-### 💻 Tech Stack
-Python • SQL • PostgreSQL • Apache Airflow • Docker • FastAPI • React • Power BI • Linux
+### 📱 Fashion Expo — Mobile Order System
+> Built in 5 days for a live multi-zone fashion expo
+
+- **Stack:** Flask · Python · JavaScript · Excel/Dropbox sync
+- **Impact:** 85% faster order capture (12 min → 2 min per order)
+- **Scale:** 300+ orders · 10+ sales staff · multi-zone expo floor
 
 ---
 
-## My Skill Set
+### 📈 Stock Market Analytics Platform
+> Personal project exploring large-scale data modeling
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-### Data & Pipelines
-<div align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Backend & Frontend
-<div align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### DevOps & Tools
-<div align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="50" />
-</div>
-
-</td>
-</tr>
-</table>
+- **Stack:** PostgreSQL · Python · React · Node.js · CI/CD
+- **Scale:** 500K+ historical records · real-time API ingestion
+- **Highlight:** Star schema design · automated ETL · technical indicators
 
 ---
 
-## Connect with me
+## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/Mukesh7522" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://linkedin.com/in/mukesh7522" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="mailto:Mukesh7522@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-<a href="https://mukesh7522.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" />
-</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mukesh7522&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh7522&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
+## 🤝 Connect with Me
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mukesh7522&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <a href="https://linkedin.com/in/mukesh7522">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Mukesh7522@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mukesh7522.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mukesh7522">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mukesh7522&style=for-the-badge&color=6366F1" />
 </div>
 
 <div align="center">
-
-### 💡 Open to Data Engineering opportunities!
-
+  <sub>💡 Open to Data Engineering opportunities</sub>
 </div>
