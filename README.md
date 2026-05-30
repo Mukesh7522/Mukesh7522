@@ -1,22 +1,17 @@
 <div align="center">
 
-```
-███╗   ███╗██╗   ██╗██╗  ██╗███████╗███████╗██╗  ██╗
-████╗ ████║██║   ██║██║ ██╔╝██╔════╝██╔════╝██║  ██║
-██╔████╔██║██║   ██║█████╔╝ █████╗  ███████╗███████║
-██║╚██╔╝██║██║   ██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██╗███████╗███████║██║  ██║
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=MUKESH+SRIDHARAN" alt="Mukesh Sridharan" />
 
-### Data Engineer · Bengaluru
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=888888&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Data+Engineer+%C2%B7+Bengaluru;PostgreSQL+%C2%B7+Airflow+%C2%B7+Docker+%C2%B7+dbt;Automate+it+once%2C+trust+it+forever" alt="Subtitle" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh7522)
-[![Gmail](https://img.shields.io/badge/-Mukesh7522@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Mukesh7522@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=firefox&logoColor=white)](https://mukesh7522.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh7522)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh7522)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mukesh7522@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://mukesh7522.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukesh7522)
+
+<br/>
 
 </div>
 
