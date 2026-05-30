@@ -1,134 +1,119 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mukesh;Data+Engineer;PostgreSQL+%7C+Airflow+%7C+Docker;automate+it+once%2C+trust+it+forever" alt="Typing SVG" />
+```
+███╗   ███╗██╗   ██╗██╗  ██╗███████╗███████╗██╗  ██╗
+████╗ ████║██║   ██║██║ ██╔╝██╔════╝██╔════╝██║  ██║
+██╔████╔██║██║   ██║█████╔╝ █████╗  ███████╗███████║
+██║╚██╔╝██║██║   ██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██╗███████╗███████║██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<br/>
+### data engineer · bengaluru
 
-![](https://img.shields.io/badge/PostgreSQL-534AB7?style=for-the-badge&logo=postgresql&logoColor=EEEDFE)
-![](https://img.shields.io/badge/Airflow-0F6E56?style=for-the-badge&logo=apache-airflow&logoColor=E1F5EE)
-![](https://img.shields.io/badge/Docker-185FA5?style=for-the-badge&logo=docker&logoColor=E6F1FB)
-![](https://img.shields.io/badge/FastAPI-854F0B?style=for-the-badge&logo=fastapi&logoColor=FAEEDA)
-![](https://img.shields.io/badge/React-993C1D?style=for-the-badge&logo=react&logoColor=FAECE7)
-![](https://img.shields.io/badge/Linux-636363?style=for-the-badge&logo=linux&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh7522)
+[![Gmail](https://img.shields.io/badge/mukesh7522@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Mukesh7522@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-111?style=flat-square&logo=firefox&logoColor=white)](https://mukesh7522.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh7522)
 
 </div>
 
 ---
 
-### `// about`
 ```python
-mukesh = {
-    "role"       : "Data Engineer",
-    "location"   : "Tirupur, Tamil Nadu",
-    "focus"      : "ETL · Warehousing · Analytics Platforms",
-    "stack"      : "PostgreSQL · Airflow · Docker · FastAPI · React",
-    "learning"   : "dbt",
-    "philosophy" : "automate it once, trust it forever"
+{
+  "role"      : "Data Engineer",
+  "based"     : "Bengaluru, India",
+  "building"  : "self-hosted analytics · ETL pipelines · data warehouses",
+  "stack"     : ["PostgreSQL", "Airflow", "Docker", "FastAPI", "dbt", "React"],
+  "mantra"    : "automate it once, trust it forever"
 }
 ```
 
 ---
 
-### `// how data moves`
+## `experience`
+
+**Data Analyst — Data Engineering & Infrastructure** · Technosport, Bengaluru · *Jul 2024 – Present*
+
+- Architected a **3-layer PostgreSQL warehouse** (raw → clean → analytics) processing **30M+ records** across 13 retail channels — materialised views deliver sub-second dashboard performance at full scale
+- Eliminated **₹12L/year** in BI licensing by shipping a FastAPI + React analytics platform with 5 production dashboards
+- Automated Python ETL pipelines consuming **200+ files/cycle** via Dropbox API — cut manual reconciliation from 8 hrs/week to under 30 min
+- Orchestrated **6 production DAGs** on Airflow + Docker with retry logic, SLA tracking, and Slack alerting
+- Enforced per-distributor isolation for **40+ tenants** via PostgreSQL Row-Level Security — single deployment, zero schema duplication
+
+**Data Analytics Intern** · ExcelR Solutions, Bengaluru · *Jul 2023 – Apr 2024*
+
+- Built Pandas transformation pipelines cutting monthly reporting prep time by ~70%
+- Delivered Power BI dashboards with DAX & Power Query for 3 business units — enabled full stakeholder self-service
+
+**Freelance Web Developer** · Self-Employed · *Feb 2022 – Jan 2023*
+
+- Shipped 3+ client websites in HTML/CSS/JS; reusable templates cut go-live turnaround by 50%
+
+---
+
+## `projects`
+
+**[Distro Forge](https://github.com/Mukesh7522)** · PostgreSQL · FastAPI · Airflow · Python · RLS
+
+> Self-serve analytics platform for 40+ distributors — primary vs. secondary sales, Odoo ERP + ChannelKonnect unified in a PostgreSQL warehouse with RLS-enforced tenant isolation. Replaced BI vendor dependency entirely; reduced support requests by 60%.
+
+**[FlightPulse](https://github.com/Mukesh7522)** · PostgreSQL · Python · GitHub Actions · React
+
+> Real-time ingestion pipeline tracking **16,000+ aircraft positions** across 115 countries at 3-min intervals. Ghost-flight detection flags stale transponder signals automatically. CI/CD via GitHub Actions; React dashboard on Vercel with sub-5s data freshness.
+
+**[Fashion Expo](https://github.com/Mukesh7522)** · Flask · Python · React · REST APIs
+
+> Mobile-first order system handling 300+ orders across 10+ staff. Reduced order capture time by **85%** (12 min → 2 min) with zero data loss.
+
+---
+
+## `stack`
+
+| layer | tools |
+|---|---|
+| **languages** | Python · SQL · JavaScript |
+| **data engineering** | dbt · ETL/ELT · Star Schema · Materialised Views · Partitioning |
+| **orchestration** | Apache Airflow · Docker · GitHub Actions · Linux |
+| **databases** | PostgreSQL (RLS, indexing, multi-tenant) · MySQL · Supabase |
+| **apis & cloud** | FastAPI · REST APIs · Dropbox API · AWS (EC2, S3) · Odoo ERP |
+| **analytics & ui** | Power BI · Tableau · React · Pandas |
+
+---
+
+## `how data moves`
+
 ```
- ┌──────────┐   ┌────────────┐   ┌─────────────┐   ┌──────────┐   ┌─────────────┐
- │  INGEST  │──▶│  RAW LAYER │──▶│  TRANSFORM  │──▶│  SERVE   │──▶│ ORCHESTRATE │
- │──────────│   │────────────│   │─────────────│   │──────────│   │─────────────│
- │  Python  │   │ PostgreSQL │   │  SQL · dbt  │   │ FastAPI  │   │   Airflow   │
- │   APIs   │   │  Schemas   │   │ Mat. Views  │   │  React   │   │   Docker    │
- └──────────┘   └────────────┘   └─────────────┘   └──────────┘   └─────────────┘
+  INGEST         RAW LAYER       TRANSFORM        SERVE          ORCHESTRATE
+─────────────  ─────────────  ─────────────  ─────────────  ─────────────────
+  Python    ──▶  PostgreSQL  ──▶  SQL · dbt  ──▶  FastAPI  ──▶    Airflow
+  APIs           Schemas        Mat. Views       React             Docker
 ```
 
 ---
 
-### `// skills`
+## `certifications`
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**`⚙ PIPELINE`**
-
-![](https://img.shields.io/badge/Airflow-EEEDFE?style=flat-square&logo=apache-airflow&logoColor=3C3489)
-![](https://img.shields.io/badge/Docker-EEEDFE?style=flat-square&logo=docker&logoColor=3C3489)
-![](https://img.shields.io/badge/FastAPI-EEEDFE?style=flat-square&logo=fastapi&logoColor=3C3489)
-![](https://img.shields.io/badge/REST_APIs-EEEDFE?style=flat-square&logoColor=3C3489)
-![](https://img.shields.io/badge/Dropbox_API-EEEDFE?style=flat-square&logo=dropbox&logoColor=3C3489)
-
-</td>
-<td valign="top" width="33%">
-
-**`🧠 LANGUAGES`**
-
-![](https://img.shields.io/badge/Python-E1F5EE?style=flat-square&logo=python&logoColor=085041)
-![](https://img.shields.io/badge/SQL-E1F5EE?style=flat-square&logo=postgresql&logoColor=085041)
-![](https://img.shields.io/badge/Pandas-E1F5EE?style=flat-square&logo=pandas&logoColor=085041)
-![](https://img.shields.io/badge/dbt_↗-E1F5EE?style=flat-square&logo=dbt&logoColor=085041)
-
-</td>
-<td valign="top" width="33%">
-
-**`🗄 DATABASES`**
-
-![](https://img.shields.io/badge/PostgreSQL-E6F1FB?style=flat-square&logo=postgresql&logoColor=0C447C)
-![](https://img.shields.io/badge/MySQL-E6F1FB?style=flat-square&logo=mysql&logoColor=0C447C)
-![](https://img.shields.io/badge/Mat._Views-E6F1FB?style=flat-square&logoColor=0C447C)
-![](https://img.shields.io/badge/Star_Schema-E6F1FB?style=flat-square&logoColor=0C447C)
-![](https://img.shields.io/badge/RLS-E6F1FB?style=flat-square&logoColor=0C447C)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**`🚀 DEVOPS`**
-
-![](https://img.shields.io/badge/Linux-FAEEDA?style=flat-square&logo=linux&logoColor=633806)
-![](https://img.shields.io/badge/Git-FAEEDA?style=flat-square&logo=git&logoColor=633806)
-![](https://img.shields.io/badge/GH_Actions-FAEEDA?style=flat-square&logo=github-actions&logoColor=633806)
-![](https://img.shields.io/badge/RDP_Server-FAEEDA?style=flat-square&logoColor=633806)
-![](https://img.shields.io/badge/Slack-FAEEDA?style=flat-square&logo=slack&logoColor=633806)
-
-</td>
-<td valign="top">
-
-**`🎨 FRONTEND`**
-
-![](https://img.shields.io/badge/React-FBEAF0?style=flat-square&logo=react&logoColor=72243E)
-![](https://img.shields.io/badge/JavaScript-FBEAF0?style=flat-square&logo=javascript&logoColor=72243E)
-![](https://img.shields.io/badge/HTML_CSS-FBEAF0?style=flat-square&logo=html5&logoColor=72243E)
-![](https://img.shields.io/badge/Power_BI-FBEAF0?style=flat-square&logo=powerbi&logoColor=72243E)
-![](https://img.shields.io/badge/Tableau-FBEAF0?style=flat-square&logo=tableau&logoColor=72243E)
-
-</td>
-<td valign="top">
-
-**`🔗 ERP`**
-
-![](https://img.shields.io/badge/Odoo_ERP-F1EFE8?style=flat-square&logo=odoo&logoColor=444441)
-![](https://img.shields.io/badge/ChannelKonnect-F1EFE8?style=flat-square&logoColor=444441)
-
-</td>
-</tr>
-</table>
+- Oracle Cloud Infrastructure 2025 — Data Science Professional
+- Oracle Database@AWS Certified Associate
+- Google Advanced Data Analytics
+- Linux Command Line Fundamentals
 
 ---
 
-### `// connect`
+## `education`
+
+**B.Sc. Computer Systems & Design** · PSG College of Technology, Coimbatore · 2018–2021
+
+**Professional Certificate, Data Analytics** · ExcelR Institute, Bengaluru · 2023–2024
+
+---
 
 <div align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-185FA5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh7522)
-[![](https://img.shields.io/badge/Gmail-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mukesh7522@gmail.com)
-[![](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=firefox&logoColor=white)](https://mukesh7522.github.io/Portfolio/)
-[![](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukesh7522)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mukesh7522&style=flat-square&color=7F77DD" />
-
-<br/><br/>
-
 `// open to data engineering opportunities //`
+
+![](https://komarev.com/ghpvc/?username=Mukesh7522&style=flat-square&color=555)
 
 </div>
